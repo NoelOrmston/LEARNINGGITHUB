@@ -1,2 +1,2 @@
 # LEARNINGGITHUB
-Just Learing the Ropes
+Just Learning the Ropes
